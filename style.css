@@ -1,0 +1,16 @@
+body{
+  font-family:Arial;
+  padding:40px;
+}
+
+.box{
+  width:200px;
+  height:120px;
+  background:#22c55e;
+  color:white;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  resize:both;
+  overflow:auto;
+}
